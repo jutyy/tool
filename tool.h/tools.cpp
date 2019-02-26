@@ -10,7 +10,11 @@
 
 #include <stdio.h>
 #include <math.h>
+/*
+https://www.jianshu.com/p/f26421bc9b58
+https://www.cnblogs.com/flyinggod/p/8117816.html
 
+*/
 
 using namespace std;
 
